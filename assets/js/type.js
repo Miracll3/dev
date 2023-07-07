@@ -94,5 +94,5 @@ window.onload = function() {
       cursorElement.style.display = 'inline';
         typeText();
 
-    }, 9000); // 60000 milliseconds = 60 seconds
+    }, 60000); // 60000 milliseconds = 60 seconds
   };
